@@ -66,9 +66,7 @@ def main():
 		)
 		
 		open(page['output'], 'w+').write(html_result)
-	print(pages)
 
-	print(page['output'])
 
 
 
